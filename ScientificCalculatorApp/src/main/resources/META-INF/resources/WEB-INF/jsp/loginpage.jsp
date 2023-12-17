@@ -65,7 +65,9 @@
 		}
 		
 		pre{
-			color: red;
+		    color: red;
+		    font-weight: bold;
+		    font-size: 15px;
 		}
     </style>
 </head>
